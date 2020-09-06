@@ -76,7 +76,7 @@ On the "Invitations" tab, we have the opportunity to select the period from a ce
 
 ![alt text][invite]
 
----
+___
 
 The program consists of six forms, namely: "Main Menu", "Authorization Window", "Add Customer", "Adjust Customer", "Add Receipts" and "Adjust Receipt".
 To sum up, we have ready-made software with a carefully designed database that has all the necessary properties. In general, the application can be used if you select other sql servers so that the database can be accessed from different computers.
